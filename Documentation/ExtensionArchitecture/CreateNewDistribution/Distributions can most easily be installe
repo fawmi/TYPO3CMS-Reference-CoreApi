@@ -18,7 +18,7 @@ Concept of distributions
 
 Distributions are full TYPO3 CMS websites ready to be unpacked. They provide
 an easy quick start for using TYPO3 CMS. The most well known distribution is
-"The official Introduction Package". Distributions can most easily be installed
+"The official Introduction Package". Distributions can easily be installed
 in the backend Extension Manager in "Get preconfigured distribution", it lists
 all available distributions for the given core version.
 
